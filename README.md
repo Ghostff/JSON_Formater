@@ -16,4 +16,4 @@ echo Json::print($source);
 ```
 Outputs:
 
-![alt tag](https://github.com/Ghostff/JSON_Formater.php/SS.png)
+![alt tag](https://github.com/Ghostff/JSON_Formater.php/blob/master/SS.png)
