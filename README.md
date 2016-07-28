@@ -11,7 +11,7 @@ $source = array (
   array ( 'points' => 2, 'name' => 'John Ab')
 );
 
-echo Json::print($source);
+echo Json::encode($source);
 
 ```
 Outputs:
