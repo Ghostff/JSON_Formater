@@ -1,4 +1,4 @@
-# pretty_folder_structure
+# JSON_Formater
 Now you dont need to send a Header to get a readable JSON data
 ```php
 <?php
