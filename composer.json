@@ -14,7 +14,7 @@
 	},
 	"autoload": {
 		"classmap": [
-		  "src/Json.php",
+		  "src/Json.php"
 		]
 	}
 }
