@@ -1,8 +1,8 @@
-# JSON_Formater
-Now you dont need to send a Header to get a readable JSON data
+# JSON_Formatter
+Allows you to pretty-print JSON data in a human-readable format
 ```php
 <?php
-require 'Json.php';
+
 
 $source = array (
   array ( 'points' => 1, 'name' => 'Peter'),

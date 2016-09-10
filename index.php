@@ -1,5 +1,5 @@
 <?php
-require 'Json.php';
+require 'src/Json.php';
 
 $source = array (
   array ( 'points' => 1, 'name' => 'Peter'),

@@ -1,0 +1,20 @@
+{
+    "name": "ghostff/json-formatter",
+    "description": "Allows you to pretty-print JSON data in a human-readable format",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chrys Ugwu",
+            "email": "frankchris@hotmail.com"
+        }
+    ],
+    "require": {
+		"php": ">=5.3.2"	
+	},
+	"autoload": {
+		"classmap": [
+		  "src/Json.php",
+		]
+	}
+}
