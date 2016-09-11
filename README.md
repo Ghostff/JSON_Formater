@@ -38,4 +38,4 @@ echo Json::encode($source);
 ```
 Outputs:
 
-![alt tag](https://github.com/Ghostff/JSON_Formatter.php/blob/master/SS.png)
+![alt tag](https://github.com/Ghostff/JSON_Formatter/blob/master/SS.png)
