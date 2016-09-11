@@ -1,7 +1,7 @@
 # JSON_Formatter
 Allows you to pretty-print JSON data in a human-readable format
 
-[![Latest Stable Version](https://img.shields.io/badge/release-v1.0.0-brightgreen.svg)](https://github.com/Ghostff/JSON_Formatter/releases) ![License](https://img.shields.io/packagist/l/gomoob/php-pushwoosh.svg) [![Latest Stable Version](https://img.shields.io/badge/packagist-v5.5.4-blue.svg)](https://packagist.org/packages/ghostff/json-formatter) [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%205.6-8892BF.svg)](https://php.net/)
+[![Latest Stable Version](https://img.shields.io/badge/release-v1.0.0-brightgreen.svg)](https://github.com/Ghostff/JSON_Formatter/releases) ![License](https://img.shields.io/packagist/l/gomoob/php-pushwoosh.svg) [![Latest Stable Version](https://img.shields.io/badge/packagist-v5.5.4-blue.svg)](https://packagist.org/packages/ghostff/json-formatter) [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%205.3-8892BF.svg)](https://php.net/)
 ----------
 
 #Installation   
