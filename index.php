@@ -9,5 +9,3 @@ $source = array (
 );
 
 echo Json::encode($source);
-
-?>
