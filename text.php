@@ -1,0 +1,1 @@
+{<p />    "0": {<p />    "points": 1,<p />"name": "Peter"<p />},<p />"1": {<p />    "points": 5,<p />"name": "Mike"<p />},<p />"2": {<p />    "points": 2,<p />"name": "John Zoo"<p />},<p />"3": {<p />    "points": 2,<p />"name": "John Ab"<p />}<p />}<p />

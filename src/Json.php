@@ -41,7 +41,7 @@ class Json
         }
         else {
             self::$o_tag = $o_tag_replacement;
-            self::$o_tag = null;
+            self::$c_tag = null;
         }
     }
     

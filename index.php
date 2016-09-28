@@ -1,6 +1,10 @@
 <?php
 require 'src/Json.php';
 
+Json::setBreak('<br>');
+Json::setIndent('<span style=\'margin-left:20px;display:block\'>', '</span>');
+Json::allowFont(true, 'Lucida Console, Monaco, monospace');
+
 $source = array (
   array ( 'points' => 1, 'name' => 'Peter'),
   array ( 'points' => 5, 'name' => 'Mike'),
@@ -9,3 +13,5 @@ $source = array (
 );
 
 echo Json::encode($source);
+
+?>
